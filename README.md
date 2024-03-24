@@ -5,5 +5,5 @@
 
 
 
-![Image](.\imgs\效果.png)
+![image](.\imgs\效果.png)
 
